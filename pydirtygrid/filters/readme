@@ -1,0 +1,8 @@
+Added by Weichen Wang, May 2017, to generate photometry output for WISE bands.
+
+Filter response curve for WISE bands, defined as response per photon. 
+First column: wavelength
+Second column: response
+Third column: error function (parts in thousand)
+Currently adopted from http://www.astro.ucla.edu/~wright/WISE/passbands.html
+Need to crosscheck with official data, and unify the format (to FAST/EAZY style)
